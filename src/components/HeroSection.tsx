@@ -66,7 +66,7 @@ const HeroSection = () => {
           {/* Social Links */}
           <div className="flex items-center justify-center gap-4 animate-fade-in-up opacity-0 stagger-5">
             <a
-              href="https://github.com/sandeeps24103"
+              href="https://github.com/sandeep241003"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-lg glass hover:bg-primary/10 hover:border-primary/50 transition-all duration-300"
@@ -75,7 +75,7 @@ const HeroSection = () => {
               <Github size={20} />
             </a>
             <a
-              href="https://linkedin.com/in/sandeeps24103"
+              href="https://www.linkedin.com/in/sandeep-sharma24103/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-lg glass hover:bg-primary/10 hover:border-primary/50 transition-all duration-300"

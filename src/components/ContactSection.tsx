@@ -21,14 +21,14 @@ const contactInfo = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    value: "linkedin.com/in/sandeeps24103",
-    href: "https://linkedin.com/in/sandeeps24103",
+    value: "linkedin.com/in/sandeep-sharma24103",
+    href: "https://www.linkedin.com/in/sandeep-sharma24103/",
   },
   {
     icon: Github,
     label: "GitHub",
-    value: "github.com/sandeeps24103",
-    href: "https://github.com/sandeeps24103",
+    value: "github.com/Sandeep241003",
+    href: "https://github.com/Sandeep241003",
   },
 ];
 
