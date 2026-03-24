@@ -1,4 +1,5 @@
 import { ArrowDown, FileText, Mail, Github, Linkedin } from "lucide-react";
+import sandeepPhoto from "@/assets/sandeep-photo.jpg";
 import { Button } from "@/components/ui/button";
 
 const HeroSection = () => {
@@ -27,6 +28,13 @@ const HeroSection = () => {
 
       <div className="container mx-auto px-4 md:px-6 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
+          {/* Profile Photo */}
+          <div className="mb-8 animate-fade-in-up opacity-0">
+            <div className="w-32 h-32 md:w-40 md:h-40 mx-auto rounded-full overflow-hidden border-2 border-primary/30 shadow-glow">
+              <img src={sandeepPhoto} alt="Sandeep Sharma" className="w-full h-full object-cover" />
+            </div>
+          </div>
+
           {/* Status Badge */}
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass text-sm mb-8 animate-fade-in-up opacity-0">
             <span className="w-2 h-2 bg-primary rounded-full animate-pulse" />
