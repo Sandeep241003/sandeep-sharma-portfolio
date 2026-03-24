@@ -49,7 +49,7 @@ const AboutSection = () => {
             </div>
 
             {/* Text */}
-            <div className="space-y-6">
+            <div className="lg:col-span-3 space-y-6">
               <p className="text-lg text-muted-foreground leading-relaxed">
                 I am a final-year Computer Science Engineering student at United Institute 
                 of Technology, Prayagraj, graduating in 2026. My academic journey has been 
