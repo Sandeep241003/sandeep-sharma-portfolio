@@ -1,5 +1,4 @@
 import { Code, Brain, Rocket, Target } from "lucide-react";
-import sandeepFull from "@/assets/sandeep-full.jpg";
 
 const highlights = [
   {
