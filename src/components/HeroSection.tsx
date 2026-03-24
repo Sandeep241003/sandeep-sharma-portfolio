@@ -1,5 +1,5 @@
 import { ArrowDown, FileText, Mail, Github, Linkedin } from "lucide-react";
-import sandeepPhoto from "@/assets/sandeep-photo.jpg";
+import sandeepPhoto from "@/assets/sandeep-full.jpg";
 import { Button } from "@/components/ui/button";
 
 const HeroSection = () => {
