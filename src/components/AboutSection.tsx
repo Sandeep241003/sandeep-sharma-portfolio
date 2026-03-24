@@ -39,16 +39,8 @@ const AboutSection = () => {
           </div>
 
           {/* Main Content */}
-          <div className="grid lg:grid-cols-5 gap-12 items-center mb-16">
-            {/* Photo */}
-            <div className="lg:col-span-2 flex justify-center">
-              <div className="w-64 md:w-72 rounded-2xl overflow-hidden border border-border shadow-glow">
-                <img src={sandeepFull} alt="Sandeep Sharma" className="w-full h-auto object-cover" />
-              </div>
-            </div>
-
-            {/* Text */}
-            <div className="lg:col-span-3 space-y-6">
+          <div className="grid lg:grid-cols-2 gap-12 items-center mb-16">
+            <div className="space-y-6">
               <p className="text-lg text-muted-foreground leading-relaxed">
                 I am a final-year Computer Science Engineering student at United Institute 
                 of Technology, Prayagraj, graduating in 2026. My academic journey has been 
